@@ -1,0 +1,5 @@
+com\testjsp\dao\IDoctorDAO.class
+com\testjsp\controller\DoctorController.class
+com\testjsp\bean\Doctor.class
+com\testjsp\dao\impl\DoctorDAO.class
+com\testjsp\connection\Connector.class
